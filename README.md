@@ -1,0 +1,2 @@
+# Accident-Detection-System-Simulator
+The Main  intention behind Accident Detection System Project is to detect the Real-time  Accidents and notify the same so as to decrease the time gap between accident  and the medical help given to the victim. In this system, Alcohol sensors can  sense the Alcohol if present and seat belt sensor senses if the seat belt is present. Vibration Sensors sense the accident, GPS Capture the location and the details are  intimated. The system can have its applications in domains like theft detection as well.
